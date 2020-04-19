@@ -1,0 +1,10 @@
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\bin\Debug\NewFaceWithEyes.exe.config
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\bin\Debug\NewFaceWithEyes.exe
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\bin\Debug\NewFaceWithEyes.pdb
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.csprojAssemblyReference.cache
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.Form1.resources
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.Properties.Resources.resources
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.csproj.GenerateResource.cache
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.exe
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.pdb
+C:\Учёба\1 курс\2 семестр\ПЯВУ\Лицо с глазами\NewFaceWithEyes\NewFaceWithEyes\obj\Debug\NewFaceWithEyes.csproj.CoreCompileInputs.cache
